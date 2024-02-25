@@ -19,6 +19,6 @@
     <li>Database - MySQL,Postgres,MongoDB </li>
     <li>Cloud - AWS, GCP, Azure</li>
     <li>OS - Linux</li>
-    <li>Platform and tools - Git, Github, Docker, Maven,Gradle,Kubernetes,Payara Micro,JPA</li>
+    <li>Platform and tools - Git, Github, Docker, Maven,Gradle,Kubernetes</li>
   </ul> </div>
 
