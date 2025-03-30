@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m Durga Prasad Reddy Katam</h1>
+<h1 align="center">👋 Hi, I’m Durga Prasad Reddy</h1>
 <h3  align="center">💻 Web developer | Java Developer | Android Developer| 📖 Tech enthusiast </h3>  
 
 <br>
